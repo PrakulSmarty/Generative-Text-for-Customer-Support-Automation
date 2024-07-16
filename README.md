@@ -1,6 +1,7 @@
-## IIT-Guwahati Summer Analytics Capstone Project
-# Generative-Text-for-Customer-Support-Automation
-Case Study 1: Generative Text for Customer Support Automation
+# IIT-Guwahati Summer Analytics Capstone Project
+## Generative-Text-for-Customer-Support-Automation
+
+### Case Study 1: Generative Text for Customer Support Automation
 
 Project Overview: Develop an AI-powered system to automate customer support interactions using generative models like GPT-3.5.
 
